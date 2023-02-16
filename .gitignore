@@ -12,6 +12,7 @@ movies.csv
 movies.zip
 **/Data Archive/
 **/Data Archive.zip
+.gitattributes
 
 # Distribution / packaging
 .Python
