@@ -1,2 +1,2 @@
-#Overview
-The Correlation notebook contains code thaht goes through some basic data exploration and exploration of trends between the variables. The main trend analyzed was budget vs revenue.
+# Overview
+The Correlation notebook contains code thaht goes through some basic data exploration and exploration of trends between the variables. The main trend analyzed was budget vs revenue. Regression plots were made for budget vs revenue and vote average vs revenue. A correlation matrix for all of the numeric variables was created. The categorical columns were factorized and then a correlation matrix was created for all of the columns.
